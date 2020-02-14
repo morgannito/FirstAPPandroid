@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstAppImerir</string>
+    <string name="temperature">Entrée la temperature</string>
+    <string name="celsius">celsius</string>
+    <string name="fahrenheit">fahrenheit</string>
+    <string name="convertir">convertir</string>
+</resources>
